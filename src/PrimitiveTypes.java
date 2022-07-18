@@ -30,5 +30,13 @@ public class PrimitiveTypes
         System.out.println("Long maximum value = " + myMaxLongValue);
         long bigLongLiteralValue = 2_147_483_648L;
         System.out.println(bigLongLiteralValue);
+
+        short bigShortLiteralValue = 32767;
+
+        int myTotal = (myMinIntValue / 2);
+
+        byte myNewByteValue = (byte) (myMinByteValue / 2);
+
+        short myNewShortValue = (short) (myMinShortValue / 2);
     }
 }
