@@ -11,6 +11,6 @@ public class CharAndBoolean {
 
         boolean isCustomerOverTwentyOne = true;
 
-        
+
     }
 }
